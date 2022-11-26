@@ -1,0 +1,10 @@
+#entradaApi{
+    background-color: rgb(41, 255, 155);
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    margin-top: 2%;
+}
+#entradaApi *{
+    padding: 5px;
+}

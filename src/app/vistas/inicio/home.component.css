@@ -1,0 +1,14 @@
+#contenedorPrincipal{
+    width: 100%;
+    height: auto;
+}
+#contenedorVideo{
+    width: 100%;
+    height: auto;
+
+    justify-content: space-around;
+}
+iframe{
+    margin-left: 5%;
+    margin-top: 2%;
+}

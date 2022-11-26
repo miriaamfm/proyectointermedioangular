@@ -1,0 +1,13 @@
+img{
+    width: 40%;
+    min-width: 500px;
+    max-width: 500px;
+}
+.container{
+    display:inline-block;
+    text-align:center;
+    width: 40%;
+}
+#contenedorprinci{
+    width: 100%;
+}

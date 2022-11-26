@@ -1,0 +1,29 @@
+img{
+    min-width: 400px;
+    max-width: 400px;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+#contenedormain{
+    width: 100%;
+    margin: 0%;
+}
+#contenedorapaisado{
+    width: 100%;
+}
+.container{
+    max-width: 100%
+}
+#contenedorpresentacion{
+    text-align: center;
+    width: 100%;
+}
+#contenedorgif{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+}
+#groot{
+    margin: 0%;
+}

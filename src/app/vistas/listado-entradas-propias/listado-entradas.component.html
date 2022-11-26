@@ -1,0 +1,4 @@
+<div id="listado">
+    <h3>Listado de entradas propias al blog</h3>
+    <app-entradapropia *ngFor="let entradapropia of listadoEntradas" [entradapropia]="entradapropia" (click)="mostrarTitulo(entradapropia.titulo)"></app-entradapropia>
+</div>
